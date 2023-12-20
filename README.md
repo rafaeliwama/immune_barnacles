@@ -11,4 +11,4 @@ Fasta file from RIG-I-like includes DICER. I need to separate DICER and RIG-I-li
 
 
 
-Procurar por IPR000999 - Ribonuclease III domain; 
+Procurar por IPR000999 - Ribonuclease III domain; PTHR14950 - DICER-RELATED
