@@ -11,4 +11,8 @@ Fasta file from RIG-I-like includes DICER. I need to separate DICER and RIG-I-li
 
 
 
-Procurar por IPR000999 - Ribonuclease III domain; PTHR14950 - DICER-RELATED
+Procurar por IPR000999 - Ribonuclease III domain; PTHR14950 - DICER-RELATED in a interpro run
+
+```
+~/Softwares/interproscan-5.61-93.0/interproscan.sh -cpu 10 -i rigI.barnacles.fa  -goterms rigI.barnacles.interpro.gff -f GFF3
+```
